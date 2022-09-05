@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Easy Pallet 2.0](https://easypallet.app)
 
-- 🌱 I’m currently learning **Python and Data Science**
+- 🌱 I’m currently learning Elixir and Phoenix.
 
 - 📝 I regularly write articles on [silviomeireles.dev](silviomeireles.dev)
 
-- 💬 Ask me about **Ruby, Python and Data**
+- 💬 Ask me about **Ruby, Elixir, Python and Data**
 
 - 📫 How to reach me **professorsilviomeireles@gmail.com**
 
