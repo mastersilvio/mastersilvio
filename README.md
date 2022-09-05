@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sílvio Meireles</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on [Easy Pallet 2.0](https://easypallet.app)
 
