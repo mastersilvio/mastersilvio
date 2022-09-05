@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mastersilvio" height="30" width="40" /></a>
-<a href="https://instagram.com/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mastersilvio" height="30" width="40" /></a>
-<a href="https://twitter.com/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastersilvio" height="30" width="40" /></a>
+<a href="https://fb.com/silviomeireles.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mastersilvio" height="30" width="40" /></a>
+<a href="https://instagram.com/silviomeireles.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mastersilvio" height="30" width="40" /></a>
+<a href="https://twitter.com/silviojmeireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastersilvio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mastersilvio" height="30" width="40" /></a>
 <a href="https://dev.to/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mastersilvio" height="30" width="40" /></a>
 <a href="https://kaggle.com/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mastersilvio" height="30" width="40" /></a>
