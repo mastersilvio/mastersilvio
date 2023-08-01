@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sílvio Meireles</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Easy Pallet 2.0](https://easypallet.app)
+- 🔭 I’m currently working on [Easy Pallet](https://easypallet.app)
 
-- 🌱 I’m currently learning Elixir and Phoenix.
+- 🌱 I’m currently learning AI.
 
 - 📝 I regularly write articles on [silviomeireles.dev](silviomeireles.dev)
 
-- 💬 Ask me about **Ruby, Elixir, Python and Data**
+- 💬 Ask me about **Ruby, Elixir, Python, AI and Data**
 
 - 📫 How to reach me **professorsilviomeireles@gmail.com**
 
