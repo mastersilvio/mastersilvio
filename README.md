@@ -1,29 +1,73 @@
+<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Sílvio Meireles</h1>
-<h3 align="center">A passionate Software Engineer from Brazil</h3>
+<h3 align="center">🚀 Software Engineer | Machine Learning Engineer </h3>
 
-- 🔭 I’m currently working on [Easy Pallet](https://easypallet.com.br)
-
-- 🌱 I’m currently learning AI.
-
-- 📝 I regularly write articles on [silviomeireles.dev](silviomeireles.dev)
-
-- 💬 Ask me about **Ruby, Elixir, Python, AI and Data**
-
-- 📫 How to reach me **professorsilviomeireles@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/silviomeireles.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mastersilvio" height="30" width="40" /></a>
-<a href="https://instagram.com/silviomeireles.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mastersilvio" height="30" width="40" /></a>
-<a href="https://twitter.com/silviojmeireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mastersilvio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mastersilvio" height="30" width="40" /></a>
-<a href="https://dev.to/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mastersilvio" height="30" width="40" /></a>
-<a href="https://kaggle.com/mastersilvio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mastersilvio" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://easypallet.com.br">🌐 Easy Pallet</a> •
+  <a href="https://silviomeireles.dev">✍️ Blog</a> •
+  <a href="mailto:professorsilviomeireles@gmail.com">📩 Contact</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Ruby-red?logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Elixir-4B275F?logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI-green?logo=openai&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastersilvio&show_icons=true&locale=en&layout=compact" alt="mastersilvio" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastersilvio&show_icons=true&locale=en" alt="mastersilvio" /></p>
+### 👨‍💻 About Me
+- 🔭 Currently building **[Easy Pallet](https://easypallet.com.br)** – AI-powered logistics optimization  
+- 🌱 Learning and experimenting with **AI & ML models**  
+- 📝 Sharing knowledge at **[silviomeireles.dev](https://silviomeireles.dev)**  
+- 💬 Ask me about **Ruby, Elixir, Python, AI, Math and Data**  
+- 📫 Reach me at: **professorsilviomeireles@gmail.com**
+
+---
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mastersilvio)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/silviojmeireles)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/silviomeireles.dev)
+[![Dev.to](https://img.shields.io/badge/Dev.to-black?logo=devdotto&logoColor=white)](https://dev.to/mastersilvio)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://kaggle.com/mastersilvio)
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔹 [Easy Pallet](https://easypallet.com.br) – Logistics optimization powered by AI
+- 🔹 [Bullet Rails Podcast](https://open.spotify.com/show/xyz) – Ruby on Rails & Entrepreneurship  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mastersilvio&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mastersilvio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastersilvio&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Fun Facts
+- 👨‍👩‍👦 Family man – husband & proud father of three 
+- 🎸 Progressive Metal fan (Dream Theater, Angra, Leprous, Tool)  
+- 🎙️ Host of **Bullet Rails Podcast**  
+- 🏃 Passionate about running, training & lifestyle optimization  
+ 
+
+---
