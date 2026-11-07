@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Ruby-red?logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Elixir-4B275F?logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI-green?logo=openai&logoColor=white" />
 </p>
@@ -21,7 +21,7 @@
 - 🔭 Currently building **[Easy Pallet](https://easypallet.com.br)** – AI-powered logistics optimization  
 - 🌱 Learning and experimenting with **AI & ML models**  
 - 📝 Sharing knowledge at **[silviomeireles.dev](https://silviomeireles.dev)**  
-- 💬 Ask me about **Ruby, Elixir, Python, AI, Math and Data**  
+- 💬 Ask me about **Ruby, JavaScript, Python, AI, Math and Data**  
 - 📫 Reach me at: **professorsilviomeireles@gmail.com**
 
 ---
@@ -38,7 +38,7 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
