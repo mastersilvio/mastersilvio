@@ -21,7 +21,7 @@
 - 🔭 Currently building **[Easy Pallet](https://easypallet.com.br)** – AI-powered logistics optimization  
 - 🌱 Learning and experimenting with **AI & ML models**  
 - 📝 Sharing knowledge at **[silviomeireles.dev](https://silviomeireles.dev)**  
-- 💬 Ask me about **Ruby, JavaScript, Python, AI, Math and Data**  
+- 💬 Ask me about **AI, Math, Optimization, Data and Software Engineering.**  
 - 📫 Reach me at: **professorsilviomeireles@gmail.com**
 
 ---
@@ -30,8 +30,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mastersilvio)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/silviojmeireles)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/silviomeireles.dev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black?logo=devdotto&logoColor=white)](https://dev.to/mastersilvio)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://kaggle.com/mastersilvio)
 
 ---
 
@@ -44,13 +42,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 </p>
 
 ---
 
 ### 📌 Featured Projects
 - 🔹 [Easy Pallet](https://easypallet.com.br) – Logistics optimization powered by AI
-- 🔹 [Bullet Rails Podcast](https://open.spotify.com/show/xyz) – Ruby on Rails & Entrepreneurship  
 
 ---
 
@@ -65,9 +65,10 @@
 
 ### 🚀 Fun Facts
 - 👨‍👩‍👦 Family man – husband & proud father of three 
-- 🎸 Progressive Metal fan (Dream Theater, Angra, Leprous, Tool)  
-- 🎙️ Host of **Bullet Rails Podcast**  
+- 🎸 Progressive Metal fan (Dream Theater, Angra, Tool)  
 - 🏃 Passionate about running, training & lifestyle optimization  
+- 🧮 Passionate about math, artificial intelligence, and building things  
+- 📚 Passionate about books, games, and technology  
  
 
 ---
